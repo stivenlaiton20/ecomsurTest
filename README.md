@@ -22,4 +22,7 @@ utilice todos los recursos del backend para trata de que la UI se viera de la me
 utlice flexbox y grid para el responsive web design.
 
 
+los pasos para arrancar el proyecto son los mismos comandos con los que venia el test  
+
+
 
