@@ -1,0 +1,17 @@
+@use "../../sass/" as *;
+.section {
+    margin-top: 200px;
+    margin-bottom: 80px;
+
+    & > * ~ * {
+        margin-top: 70px;
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    &__title {
+        font-size: 2rem;
+        text-transform: capitalize;
+        text-align: center;
+    }
+}
